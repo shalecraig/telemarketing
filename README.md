@@ -10,7 +10,9 @@ numbers. It's a contact you can add in your address book.
 
 # Installation
 
-Download the vcf file from [here](https://github.com/shalecraig/telemarketing/releases/tag/0.0.1).
+1. Download the vcf file from [here](https://github.com/shalecraig/telemarketing/releases/tag/0.0.1).
+2. Install it using a method below.
+3. Block the contact. (Or just #ignore) it when the caller ID says "Telemarketing".
 
 ## Google Contacts
 
