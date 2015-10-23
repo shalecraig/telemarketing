@@ -10,8 +10,7 @@ numbers. It's a contact you can add in your address book.
 
 # Installation
 
-Download the vcf file from [here].
-TODO: link to the file.
+Download the vcf file from [here](https://github.com/shalecraig/telemarketing/releases/tag/0.0.1).
 
 ## Google Contacts
 
